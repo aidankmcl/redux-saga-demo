@@ -1,3 +1,17 @@
+The Create-React-App Redux template with a basic Redux-Saga implementation for teaching purposes.
+
+In the `features/counter` folder, there are 4 files:
+- Counter.js - the main React component interacted with in this demo
+- Counter.module.css - default CSS
+- counterSaga.js - contains Redux-Saga logic for the demo
+- counterSlice.js - contains Redux reducer & action logic for the demo
+
+There are 4 stages of the demo that can be viewed by copying the contents of the files in the folders beginning with _ into the corresponding files.
+
+Follow the instructions below to run the repo, and please feel free to open a PR or give feedback if you like :)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
